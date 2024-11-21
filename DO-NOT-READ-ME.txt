@@ -1,1 +1,4 @@
 Download de extentie van drawio, normaal gezien de bovenste maar neem de gene met de meest downloads (2.5m downloads)
+Dit is als backup bedoelt als je aanpassing maakt doe dat in de browser of app, NIET IN VSCODE zelf. En op het einde van de dag
+of wanneer je klaar bent doe je een git pull om te kijken als er iemand iets veranderd heeft en dan doe je de commit en push pas!
+(vermeld liefst ook wanneer je begint er aan te werken in de discord groep)
